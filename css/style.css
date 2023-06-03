@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #main
 {
     height: 100%;
@@ -15,3 +16,20 @@
     align-self: center;
     justify-self: center;
 }
+=======
+#main{
+    height: 100%;
+    width: 100%;
+  }
+  #img-div{
+  height: 100%;
+  max-width:100%;
+  }
+  #image{
+    display: block;
+    align-self: center;
+    justify-self: center;   
+      height: auto;
+      max-width:100%;
+  }
+>>>>>>> 9487adf35d539f69b0f54daed4f0d98724981e7e
